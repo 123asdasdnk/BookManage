@@ -1,0 +1,18 @@
+10月 05, 2023 3:40:04 下午 book.manage.Main lambda$addStudent$1
+信息: 新添加了一条学生信息:Student(sid=20225, name=小蓝, sex=女, grade=2022)
+10月 05, 2023 3:41:57 下午 book.manage.Main lambda$addBook$0
+信息: 新添加了一条书籍信息:Book(bid=3, title=测试2, desc=我是测试书籍, price=5.5)
+10月 05, 2023 4:58:38 下午 book.manage.Main lambda$addStudent$2
+信息: 新添加了一条学生信息:Student(sid=20221, name=叶思成, sex=男, grade=2022)
+10月 05, 2023 4:59:00 下午 book.manage.Main lambda$addBook$1
+信息: 新添加了一条书籍信息:Book(bid=1, title=数据结构, desc=我是数据结构介绍, price=20.5)
+10月 05, 2023 5:03:17 下午 book.manage.Main lambda$addBorrow$0
+信息: 新添加了一条借阅信息:1 20221 1 
+10月 05, 2023 5:30:20 下午 book.manage.Main lambda$addBook$3
+信息: 新添加了一条书籍信息:Book(bid=2, title=离散数学, desc=我是离散数学介绍, price=20.6)
+10月 05, 2023 5:30:46 下午 book.manage.Main lambda$addBorrow$2
+信息: 新添加了一条借阅信息:2 20221 2 
+10月 05, 2023 5:31:55 下午 book.manage.Main lambda$addStudent$4
+信息: 新添加了一条学生信息:Student(sid=20222, name=牛义隆, sex=男, grade=2022)
+10月 05, 2023 5:32:26 下午 book.manage.Main lambda$addBorrow$2
+信息: 新添加了一条借阅信息:4 20222 2 
